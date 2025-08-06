@@ -15,3 +15,5 @@ Used supervised machine learning to classify whether a product is defective base
 ## 🧠 What I Learned  
 - Binary classification  
 - Real-world manufacturing dataset handling 
+
+> 🛠️ Educational project completed during Codecademy’s Data Science Pathway.
